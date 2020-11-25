@@ -8,8 +8,8 @@ As expected the counts of first digits of the number of votes for the two candid
 
 2020 result
 
-![](https://github.com/henrikbol/benford_elec/blob/main/chart_2020.png "Benford chart 2016")
+![](https://github.com/henrikbol/benford_elec/blob/main/chart_2020.png "Benford chart 2020")
 
 2016 result
 
-![](https://github.com/henrikbol/benford_elec/blob/main/chart_2016.png "Benford chart 2020")
+![](https://github.com/henrikbol/benford_elec/blob/main/chart_2016.png "Benford chart 2016")
